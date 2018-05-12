@@ -1,0 +1,40 @@
+_repo: The-Moccasin-Ranch--A-Story-of-Dakota_19764
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Howitt, John Newton
+    birthdate: 1885
+    deathdate: 1958
+    gutenberg_agent_id: '37605'
+    url: http://www.gutenberg.org/2009/agents/37605
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garland, Hamlin
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '1034'
+    url: http://www.gutenberg.org/2009/agents/1034
+    wikipedia: http://en.wikipedia.org/wiki/Hamlin_Garland
+description: '"Early in the gray and red dawn of a March morning in 1883, two wagons
+  moved slowly out of Boomtown, the two-year-old ''giant of the plains.''" Garland
+  opens his description of a town in the Wild West and the people newly come to live
+  there.'
+gutenberg_issued: '2006-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19764'
+  lccn: 09024262
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Dakota Territory -- Fiction'
+- !lcsh 'Ranch life -- Fiction'
+- !lcc 'PS'
+title: 'The Moccasin Ranch: A Story of Dakota'
+url: http://www.gutenberg.org/ebooks/19764
